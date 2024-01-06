@@ -7,6 +7,6 @@
 
 
 fn main() {
-    printline!("Hello there!");
-    printline!("what?");
+    println!("Hello there!");
+    println!("what?");
 }
